@@ -1,0 +1,15 @@
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.deps.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.AssemblyInfo.cs
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Codebase\myflix\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.deps.json
+C:\Codebase\myflix\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Codebase\myflix\MYFLIX.Domain\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Codebase\myflix\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.csprojAssemblyReference.cache
+C:\Codebase\myflix\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.AssemblyInfoInputs.cache
+C:\Codebase\myflix\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.AssemblyInfo.cs
+C:\Codebase\myflix\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Codebase\myflix\MYFLIX.Domain\obj\Debug\netcoreapp3.1\MYFLIX.Data.pdb

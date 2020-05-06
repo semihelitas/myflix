@@ -1,0 +1,282 @@
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.exe
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.deps.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.runtimeconfig.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.runtimeconfig.dev.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.csprojAssemblyReference.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\staticwebassets\MYFLIX.API.StaticWebAssets.Manifest.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\staticwebassets\MYFLIX.API.StaticWebAssets.xml
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.AssemblyInfo.cs
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Service.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Service.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.csproj.CopyComplete
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.Views.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.exe
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.deps.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.runtimeconfig.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.runtimeconfig.dev.json
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.pdb
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.API.Views.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Service.dll
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Service.pdb
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Codebase\myflix\MYFLIX.API\bin\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.csprojAssemblyReference.cache
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\staticwebassets\MYFLIX.API.StaticWebAssets.Manifest.cache
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\staticwebassets\MYFLIX.API.StaticWebAssets.xml
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.AssemblyInfoInputs.cache
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.AssemblyInfo.cs
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.RazorTargetAssemblyInfo.cache
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.csproj.CopyComplete
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.dll
+C:\Codebase\myflix\MYFLIX.API\obj\Debug\netcoreapp3.1\MYFLIX.API.pdb

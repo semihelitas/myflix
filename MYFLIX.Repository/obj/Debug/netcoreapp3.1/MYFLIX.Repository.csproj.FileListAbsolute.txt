@@ -1,0 +1,26 @@
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.csprojAssemblyReference.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.AssemblyInfo.cs
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.deps.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.runtimeconfig.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.runtimeconfig.dev.json
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.csproj.CopyComplete
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Users\semih\Desktop\Development Area\MYFLIX\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.deps.json
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.runtimeconfig.json
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.runtimeconfig.dev.json
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Data.dll
+C:\Codebase\myflix\MYFLIX.Repository\bin\Debug\netcoreapp3.1\MYFLIX.Data.pdb
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.csprojAssemblyReference.cache
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.AssemblyInfoInputs.cache
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.AssemblyInfo.cs
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.csproj.CopyComplete
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.dll
+C:\Codebase\myflix\MYFLIX.Repository\obj\Debug\netcoreapp3.1\MYFLIX.Repository.pdb
